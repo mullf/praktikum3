@@ -45,3 +45,42 @@
 ![gambar1](gambar/py9.png)
 
 ### Konversi nilai Variabel
+#### - Konversi nilai variabel yang masih berbentuk 'string' pada 'intreger'
+#### - Setelah itu menjumlahkan dan membagi dengan mengepresikan dalam bentuk Formatting String
+
+![gambar1](gambar/py10.png)
+
+![gambar1](gambar/py11.png)
+
+## Latihan 3
+
+### Buatlah kode program menggunakan string formatting untuk menghasilkan output seperti gambar dibawah ini
+
+![gambar1](gambar/py12.png)
+
+![gambar1](gambar/py13.png)
+
+#### - Agar menampilkan output yang sama dengan latihan3.1 yaitu dengan menjalankan hasil dari statement yang telah dibuat dan setelah itu kita disuruh menginputkan numeric 5
+
+![gambar1](gambar/py14.png)
+
+![gambar1](gambar/py15.png)
+
+#### - Anda dapat bebas menentukan angka yang ingin diinputkan ^^
+
+#### - Seperti ini contoh nya
+
+![gambar1](gambar/py15.png)
+
+![gambar1](gambar/py16.png)
+
+## Praktikum 3
+
+![gambar1](gambar/py17.png)
+
+### Hasil Praktikum 3 yang telah saya lakukan yaitu :
+#### - Dapat memahami algoritma lingkaran yang diproses dalam Python
+#### - Dapat menjelaskan bagaimana langkah-langkah membuat algoritma lingkaran pada Python
+#### - Dapat membuat Flowchart algoritma lingkaran pada Python
+
+![gambar1](gambar/py18.png)
