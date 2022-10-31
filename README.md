@@ -60,19 +60,7 @@
 
 ![gambar1](gambar/pk13.png)
 
-#### - Agar menampilkan output yang sama dengan latihan3.1 yaitu dengan menjalankan hasil dari statement yang telah dibuat dan setelah itu kita disuruh menginputkan numeric 5
-
 ![gambar1](gambar/pk14.png)
-
-![gambar1](gambar/pk15.png)
-
-#### - Anda dapat bebas menentukan angka yang ingin diinputkan ^^
-
-#### - Seperti ini contoh nya
-
-![gambar1](gambar/pk15.png)
-
-![gambar1](gambar/pk16.png)
 
 ## Praktikum 3
 
